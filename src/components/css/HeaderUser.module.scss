@@ -1,0 +1,35 @@
+*,
+body {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+.header {
+	display: flex;
+	align-items: center;
+	margin: 5px 5px;
+
+	> label {
+		margin-right: 10px;
+	}
+	> label,
+	> input {
+		font-size: 17px;
+	}
+
+	.big {
+		width: 30px;
+		padding: 0 5px;
+	}
+	.once {
+		margin-right: 10px;
+		width: 170px;
+	}
+
+	.small {
+		width: 10px;
+		padding: 0 5px;
+		margin-right: 10px;
+	}
+}

@@ -1,0 +1,502 @@
+[
+	{
+		"N": "1",
+		"INSIDE_LOAD_CODE": "123",
+		"INSIDE_LOAD_NAME": "КОЛЕСНЫЕ ПАРЫ",
+		"PRIZN_SERT": "0",
+		"LOAD_GROUP_CODE": "0",
+		"ETSNG": "",
+		"EMRG_CARD": "",
+		"AXL_COVER": ""
+	},
+	{
+		"N": "2",
+		"INSIDE_LOAD_CODE": "126",
+		"INSIDE_LOAD_NAME": "ЛЕНТА КОНВЕЙЕРНАЯ",
+		"PRIZN_SERT": "0",
+		"LOAD_GROUP_CODE": "0",
+		"ETSNG": "",
+		"EMRG_CARD": "",
+		"AXL_COVER": ""
+	},
+	{
+		"N": "3",
+		"INSIDE_LOAD_CODE": "131",
+		"INSIDE_LOAD_NAME": "КВАРЦИТ",
+		"PRIZN_SERT": "0",
+		"LOAD_GROUP_CODE": "301059",
+		"ETSNG": "",
+		"EMRG_CARD": "",
+		"AXL_COVER": ""
+	},
+	{
+		"N": "4",
+		"INSIDE_LOAD_CODE": "132",
+		"INSIDE_LOAD_NAME": "РУДА ДОМЕННАЯ",
+		"PRIZN_SERT": "0",
+		"LOAD_GROUP_CODE": "1411",
+		"ETSNG": "",
+		"EMRG_CARD": "",
+		"AXL_COVER": ""
+	},
+	{
+		"N": "5",
+		"INSIDE_LOAD_CODE": "133",
+		"INSIDE_LOAD_NAME": "ШУНГИТ",
+		"PRIZN_SERT": "0",
+		"LOAD_GROUP_CODE": "1411",
+		"ETSNG": "",
+		"EMRG_CARD": "",
+		"AXL_COVER": ""
+	},
+	{
+		"N": "6",
+		"INSIDE_LOAD_CODE": "145",
+		"INSIDE_LOAD_NAME": "СКРАП ДОМЕННЫЙ",
+		"PRIZN_SERT": "0",
+		"LOAD_GROUP_CODE": "0",
+		"ETSNG": "",
+		"EMRG_CARD": "",
+		"AXL_COVER": ""
+	},
+	{
+		"N": "7",
+		"INSIDE_LOAD_CODE": "155",
+		"INSIDE_LOAD_NAME": "БИТУМ ЖИДКИЙ",
+		"PRIZN_SERT": "0",
+		"LOAD_GROUP_CODE": "0",
+		"ETSNG": "",
+		"EMRG_CARD": "",
+		"AXL_COVER": ""
+	},
+	{
+		"N": "8",
+		"INSIDE_LOAD_CODE": "166",
+		"INSIDE_LOAD_NAME": "РУДА МАРГАНЦЕВАЯ",
+		"PRIZN_SERT": "0",
+		"LOAD_GROUP_CODE": "142038",
+		"ETSNG": "",
+		"EMRG_CARD": "",
+		"AXL_COVER": ""
+	},
+	{
+		"N": "9",
+		"INSIDE_LOAD_CODE": "172",
+		"INSIDE_LOAD_NAME": "ЛОМ 1 СОРТА, ГБЖ",
+		"PRIZN_SERT": "0",
+		"LOAD_GROUP_CODE": "0",
+		"ETSNG": "",
+		"EMRG_CARD": "",
+		"AXL_COVER": ""
+	},
+	{
+		"N": "10",
+		"INSIDE_LOAD_CODE": "173",
+		"INSIDE_LOAD_NAME": "ЛОМ 2 СОРТА, ГБЖ",
+		"PRIZN_SERT": "0",
+		"LOAD_GROUP_CODE": "0",
+		"ETSNG": "",
+		"EMRG_CARD": "",
+		"AXL_COVER": ""
+	},
+	{
+		"N": "11",
+		"INSIDE_LOAD_CODE": "174",
+		"INSIDE_LOAD_NAME": "ГБЖ",
+		"PRIZN_SERT": "0",
+		"LOAD_GROUP_CODE": "0",
+		"ETSNG": "",
+		"EMRG_CARD": "",
+		"AXL_COVER": ""
+	},
+	{
+		"N": "12",
+		"INSIDE_LOAD_CODE": "183",
+		"INSIDE_LOAD_NAME": "КИСЛОТА СОЛЯНАЯ",
+		"PRIZN_SERT": "0",
+		"LOAD_GROUP_CODE": "0",
+		"ETSNG": "",
+		"EMRG_CARD": "801",
+		"AXL_COVER": ""
+	},
+	{
+		"N": "13",
+		"INSIDE_LOAD_CODE": "184",
+		"INSIDE_LOAD_NAME": "ЛОМ 1 СОРТА, СКРАП",
+		"PRIZN_SERT": "0",
+		"LOAD_GROUP_CODE": "0",
+		"ETSNG": "",
+		"EMRG_CARD": "",
+		"AXL_COVER": ""
+	},
+	{
+		"N": "14",
+		"INSIDE_LOAD_CODE": "185",
+		"INSIDE_LOAD_NAME": "ЛОМ ШРЕДИРОВАННЫЙ",
+		"PRIZN_SERT": "0",
+		"LOAD_GROUP_CODE": "0",
+		"ETSNG": "",
+		"EMRG_CARD": "",
+		"AXL_COVER": ""
+	},
+	{
+		"N": "15",
+		"INSIDE_LOAD_CODE": "186",
+		"INSIDE_LOAD_NAME": "КАЛЬЦИЯ ХЛОРИД",
+		"PRIZN_SERT": "0",
+		"LOAD_GROUP_CODE": "0",
+		"ETSNG": "",
+		"EMRG_CARD": "",
+		"AXL_COVER": ""
+	},
+	{
+		"N": "16",
+		"INSIDE_LOAD_CODE": "210",
+		"INSIDE_LOAD_NAME": "ШЛАКИ МЕТАЛЛУРГИЧЕСКИЕ НЕ ПОИМ. В АЛФАВТ",
+		"PRIZN_SERT": "0",
+		"LOAD_GROUP_CODE": "235092",
+		"ETSNG": "",
+		"EMRG_CARD": "",
+		"AXL_COVER": ""
+	},
+	{
+		"N": "17",
+		"INSIDE_LOAD_CODE": "214",
+		"INSIDE_LOAD_NAME": "ФРАКЦИЯ КОКСА",
+		"PRIZN_SERT": "0",
+		"LOAD_GROUP_CODE": "0",
+		"ETSNG": "",
+		"EMRG_CARD": "",
+		"AXL_COVER": ""
+	},
+	{
+		"N": "18",
+		"INSIDE_LOAD_CODE": "215",
+		"INSIDE_LOAD_NAME": "МЕТАЛЛООТХОДЫ УГЛЕРОДИСТОЙ СТАЛИ",
+		"PRIZN_SERT": "0",
+		"LOAD_GROUP_CODE": "316",
+		"ETSNG": "",
+		"EMRG_CARD": "",
+		"AXL_COVER": ""
+	},
+	{
+		"N": "19",
+		"INSIDE_LOAD_CODE": "219",
+		"INSIDE_LOAD_NAME": "ТТО-ШАМОТ",
+		"PRIZN_SERT": "0",
+		"LOAD_GROUP_CODE": "0",
+		"ETSNG": "",
+		"EMRG_CARD": "",
+		"AXL_COVER": ""
+	},
+	{
+		"N": "20",
+		"INSIDE_LOAD_CODE": "230",
+		"INSIDE_LOAD_NAME": "ОКАТЫШИ КАЧКАНАРСКИЕ",
+		"PRIZN_SERT": "0",
+		"LOAD_GROUP_CODE": "141114",
+		"ETSNG": "",
+		"EMRG_CARD": "",
+		"AXL_COVER": ""
+	},
+	{
+		"N": "21",
+		"INSIDE_LOAD_CODE": "234",
+		"INSIDE_LOAD_NAME": "ОКАТЫШИ ЛЕБЕДИНСКИЕ",
+		"PRIZN_SERT": "0",
+		"LOAD_GROUP_CODE": "141114",
+		"ETSNG": "",
+		"EMRG_CARD": "",
+		"AXL_COVER": ""
+	},
+	{
+		"N": "22",
+		"INSIDE_LOAD_CODE": "235",
+		"INSIDE_LOAD_NAME": "МЕТАЛЛООТХОДЫ ДИНАМНОЙ СТАЛИ",
+		"PRIZN_SERT": "0",
+		"LOAD_GROUP_CODE": "0",
+		"ETSNG": "",
+		"EMRG_CARD": "",
+		"AXL_COVER": ""
+	},
+	{
+		"N": "23",
+		"INSIDE_LOAD_CODE": "249",
+		"INSIDE_LOAD_NAME": "ОКАТЫШИ ЛЕБЕДИНСКИЕ (ПОД ЗАЧИСТКУ)",
+		"PRIZN_SERT": "0",
+		"LOAD_GROUP_CODE": "0",
+		"ETSNG": "",
+		"EMRG_CARD": "",
+		"AXL_COVER": ""
+	},
+	{
+		"N": "24",
+		"INSIDE_LOAD_CODE": "250",
+		"INSIDE_LOAD_NAME": "ОКАТЫШИ КАЧКАНАРСКИЕ (ПОД ЗАЧИСТКУ)",
+		"PRIZN_SERT": "0",
+		"LOAD_GROUP_CODE": "0",
+		"ETSNG": "",
+		"EMRG_CARD": "",
+		"AXL_COVER": ""
+	},
+	{
+		"N": "25",
+		"INSIDE_LOAD_CODE": "251",
+		"INSIDE_LOAD_NAME": "ОКАТЫШИ МИХАЙЛОВСКИЕ (ПОД ЗАЧИСТКУ)",
+		"PRIZN_SERT": "0",
+		"LOAD_GROUP_CODE": "0",
+		"ETSNG": "",
+		"EMRG_CARD": "",
+		"AXL_COVER": ""
+	},
+	{
+		"N": "26",
+		"INSIDE_LOAD_CODE": "252",
+		"INSIDE_LOAD_NAME": "КОКС 10-25 ДЦ 2",
+		"PRIZN_SERT": "0",
+		"LOAD_GROUP_CODE": "1710",
+		"ETSNG": "",
+		"EMRG_CARD": "",
+		"AXL_COVER": ""
+	},
+	{
+		"N": "27",
+		"INSIDE_LOAD_CODE": "272",
+		"INSIDE_LOAD_NAME": "УГОЛЬ МАТЮШЕНСКИЙ ПУТ",
+		"PRIZN_SERT": "0",
+		"LOAD_GROUP_CODE": "0",
+		"ETSNG": "",
+		"EMRG_CARD": "",
+		"AXL_COVER": ""
+	},
+	{
+		"N": "28",
+		"INSIDE_LOAD_CODE": "277",
+		"INSIDE_LOAD_NAME": "ОКАТЫШИ СТОЙЛЕНСКИЕ (ПОД ЗАЧИСТКУ)",
+		"PRIZN_SERT": "0",
+		"LOAD_GROUP_CODE": "0",
+		"ETSNG": "",
+		"EMRG_CARD": "",
+		"AXL_COVER": ""
+	},
+	{
+		"N": "29",
+		"INSIDE_LOAD_CODE": "281",
+		"INSIDE_LOAD_NAME": "БРИКЕТ Ж/РУДЫ ЛГОК",
+		"PRIZN_SERT": "0",
+		"LOAD_GROUP_CODE": "0",
+		"ETSNG": "",
+		"EMRG_CARD": "",
+		"AXL_COVER": ""
+	},
+	{
+		"N": "30",
+		"INSIDE_LOAD_CODE": "303",
+		"INSIDE_LOAD_NAME": "МЕТАЛЛОЛОМ ДИНАМНОЙ СТАЛИ",
+		"PRIZN_SERT": "0",
+		"LOAD_GROUP_CODE": "0",
+		"ETSNG": "",
+		"EMRG_CARD": "",
+		"AXL_COVER": ""
+	},
+	{
+		"N": "31",
+		"INSIDE_LOAD_CODE": "304",
+		"INSIDE_LOAD_NAME": "МЕТАЛЛОЛОМ ТРАНСФОРМАТОРНОЙ СТАЛИ",
+		"PRIZN_SERT": "0",
+		"LOAD_GROUP_CODE": "0",
+		"ETSNG": "",
+		"EMRG_CARD": "",
+		"AXL_COVER": ""
+	},
+	{
+		"N": "32",
+		"INSIDE_LOAD_CODE": "305",
+		"INSIDE_LOAD_NAME": "МЕТАЛЛОЛОМ УГЛЕРОДИСТОЙ СТАЛИ",
+		"PRIZN_SERT": "0",
+		"LOAD_GROUP_CODE": "0",
+		"ETSNG": "",
+		"EMRG_CARD": "",
+		"AXL_COVER": ""
+	},
+	{
+		"N": "33",
+		"INSIDE_LOAD_CODE": "311",
+		"INSIDE_LOAD_NAME": "УГОЛЬ СС ЧЕРНИГОВЕЦ",
+		"PRIZN_SERT": "0",
+		"LOAD_GROUP_CODE": "0",
+		"ETSNG": "",
+		"EMRG_CARD": "",
+		"AXL_COVER": ""
+	},
+	{
+		"N": "34",
+		"INSIDE_LOAD_CODE": "312",
+		"INSIDE_LOAD_NAME": "УГОЛЬ СС МЕЖДУРЕЧЕНСКИЙ",
+		"PRIZN_SERT": "0",
+		"LOAD_GROUP_CODE": "0",
+		"ETSNG": "",
+		"EMRG_CARD": "",
+		"AXL_COVER": ""
+	},
+	{
+		"N": "35",
+		"INSIDE_LOAD_CODE": "314",
+		"INSIDE_LOAD_NAME": "БРИКЕТ Ж/РУДЫ ЛГОК ПОД ЗАЧИСТКУ",
+		"PRIZN_SERT": "0",
+		"LOAD_GROUP_CODE": "0",
+		"ETSNG": "",
+		"EMRG_CARD": "",
+		"AXL_COVER": ""
+	},
+	{
+		"N": "36",
+		"INSIDE_LOAD_CODE": "117",
+		"INSIDE_LOAD_NAME": "ЛОМ СТАЛЬНОЙ ОТ РЕМОНТА 5А",
+		"PRIZN_SERT": "0",
+		"LOAD_GROUP_CODE": "316",
+		"ETSNG": "",
+		"EMRG_CARD": "",
+		"AXL_COVER": ""
+	},
+	{
+		"N": "37",
+		"INSIDE_LOAD_CODE": "118",
+		"INSIDE_LOAD_NAME": "СТРУЖКА СТАЛЬНАЯ",
+		"PRIZN_SERT": "0",
+		"LOAD_GROUP_CODE": "0",
+		"ETSNG": "",
+		"EMRG_CARD": "",
+		"AXL_COVER": ""
+	},
+	{
+		"N": "38",
+		"INSIDE_LOAD_CODE": "121",
+		"INSIDE_LOAD_NAME": "СЛИТКИ КУЗНЕЧНЫЕ",
+		"PRIZN_SERT": "0",
+		"LOAD_GROUP_CODE": "0",
+		"ETSNG": "",
+		"EMRG_CARD": "",
+		"AXL_COVER": ""
+	},
+	{
+		"N": "39",
+		"INSIDE_LOAD_CODE": "122",
+		"INSIDE_LOAD_NAME": "ЛИТЬЕ",
+		"PRIZN_SERT": "0",
+		"LOAD_GROUP_CODE": "0",
+		"ETSNG": "",
+		"EMRG_CARD": "",
+		"AXL_COVER": ""
+	},
+	{
+		"N": "40",
+		"INSIDE_LOAD_CODE": "137",
+		"INSIDE_LOAD_NAME": "СИЛИКОМАРГАНЕЦ",
+		"PRIZN_SERT": "0",
+		"LOAD_GROUP_CODE": "0",
+		"ETSNG": "",
+		"EMRG_CARD": "",
+		"AXL_COVER": ""
+	},
+	{
+		"N": "41",
+		"INSIDE_LOAD_CODE": "146",
+		"INSIDE_LOAD_NAME": "СТВОЛЫ ДЕРЕВЬЕВ",
+		"PRIZN_SERT": "0",
+		"LOAD_GROUP_CODE": "0",
+		"ETSNG": "",
+		"EMRG_CARD": "",
+		"AXL_COVER": ""
+	},
+	{
+		"N": "42",
+		"INSIDE_LOAD_CODE": "147",
+		"INSIDE_LOAD_NAME": "ВЕТКИ ДЕРЕВЬЕВ",
+		"PRIZN_SERT": "0",
+		"LOAD_GROUP_CODE": "0",
+		"ETSNG": "",
+		"EMRG_CARD": "",
+		"AXL_COVER": ""
+	},
+	{
+		"N": "43",
+		"INSIDE_LOAD_CODE": "149",
+		"INSIDE_LOAD_NAME": "МИКРОКРЕМНЕЗЕМ",
+		"PRIZN_SERT": "0",
+		"LOAD_GROUP_CODE": "0",
+		"ETSNG": "",
+		"EMRG_CARD": "",
+		"AXL_COVER": ""
+	},
+	{
+		"N": "44",
+		"INSIDE_LOAD_CODE": "150",
+		"INSIDE_LOAD_NAME": "ВОДА",
+		"PRIZN_SERT": "0",
+		"LOAD_GROUP_CODE": "0",
+		"ETSNG": "",
+		"EMRG_CARD": "",
+		"AXL_COVER": ""
+	},
+	{
+		"N": "45",
+		"INSIDE_LOAD_CODE": "151",
+		"INSIDE_LOAD_NAME": "СКРАП СТАЛЬНОЙ",
+		"PRIZN_SERT": "0",
+		"LOAD_GROUP_CODE": "316",
+		"ETSNG": "",
+		"EMRG_CARD": "",
+		"AXL_COVER": ""
+	},
+	{
+		"N": "46",
+		"INSIDE_LOAD_CODE": "156",
+		"INSIDE_LOAD_NAME": "ПРОКАТ АРМАТУРНЫЙ",
+		"PRIZN_SERT": "0",
+		"LOAD_GROUP_CODE": "0",
+		"ETSNG": "",
+		"EMRG_CARD": "",
+		"AXL_COVER": ""
+	},
+	{
+		"N": "47",
+		"INSIDE_LOAD_CODE": "165",
+		"INSIDE_LOAD_NAME": "ЛЕСОМАТЕР. ЛИСТВ. ПОРОД ДУБ",
+		"PRIZN_SERT": "0",
+		"LOAD_GROUP_CODE": "0",
+		"ETSNG": "",
+		"EMRG_CARD": "",
+		"AXL_COVER": ""
+	},
+	{
+		"N": "48",
+		"INSIDE_LOAD_CODE": "168",
+		"INSIDE_LOAD_NAME": "МАСЛО ОТРАБОТАННОЕ",
+		"PRIZN_SERT": "0",
+		"LOAD_GROUP_CODE": "0",
+		"ETSNG": "",
+		"EMRG_CARD": "",
+		"AXL_COVER": ""
+	},
+	{
+		"N": "49",
+		"INSIDE_LOAD_CODE": "204",
+		"INSIDE_LOAD_NAME": "ПРОКАТ ОЦ. С ПОКР. ПОЛИЭФИР. ЭМАЛЬЮ",
+		"PRIZN_SERT": "0",
+		"LOAD_GROUP_CODE": "324188",
+		"ETSNG": "",
+		"EMRG_CARD": "",
+		"AXL_COVER": ""
+	},
+	{
+		"N": "50",
+		"INSIDE_LOAD_CODE": "193",
+		"INSIDE_LOAD_NAME": "ОКАТЫШИ С НАПОЛЬНЫХ СКЛАДОВ",
+		"PRIZN_SERT": "0",
+		"LOAD_GROUP_CODE": "141114",
+		"ETSNG": "",
+		"EMRG_CARD": "",
+		"AXL_COVER": ""
+	}
+]

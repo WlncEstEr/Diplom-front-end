@@ -1,0 +1,130 @@
+[
+	{
+		"NVAG": 8581,
+		"KODTVAG": "ОК АГЛ",
+		"GPOD": 70,
+		"VESVAG": 23.7,
+		"VES_GROTP": 79.75,
+		"VES_PROVES": 79.75
+	},
+	{
+		"NVAG": 8589,
+		"KODTVAG": "ОК АГЛ",
+		"GPOD": 71,
+		"VESVAG": 21.8,
+		"VES_GROTP": 69.55,
+		"VES_PROVES": 69.55
+	},
+	{
+		"NVAG": 8970,
+		"KODTVAG": "ОК ШЛКОН",
+		"GPOD": 70,
+		"VESVAG": 24,
+		"VES_GROTP": 79.15,
+		"VES_PROVES": 79.15
+	},
+	{
+		"NVAG": 8544,
+		"KODTVAG": "ОК ШЛКОН",
+		"GPOD": 71,
+		"VESVAG": 21.7,
+		"VES_GROTP": 67.7,
+		"VES_PROVES": 67.7
+	},
+	{
+		"NVAG": 8582,
+		"KODTVAG": "ПЛ ЛОТ К1",
+		"GPOD": 72,
+		"VESVAG": 24,
+		"VES_GROTP": 72.05,
+		"VES_PROVES": 72.05
+	},
+	{
+		"NVAG": 8714,
+		"KODTVAG": "ПЛЧ СЛ К2",
+		"GPOD": 71,
+		"VESVAG": 21.3,
+		"VES_GROTP": 68.95,
+		"VES_PROVES": 68.95
+	},
+	{
+		"NVAG": 8558,
+		"KODTVAG": "ПЛ ЛОТ К1",
+		"GPOD": 70,
+		"VESVAG": 24.05,
+		"VES_GROTP": 78.2,
+		"VES_PROVES": 78.2
+	},
+	{
+		"NVAG": 8821,
+		"KODTVAG": "ПЛЧ СЛ К2",
+		"GPOD": 70,
+		"VESVAG": 23.7,
+		"VES_GROTP": 79.4,
+		"VES_PROVES": 79.4
+	},
+	{
+		"NVAG": 8615,
+		"KODTVAG": "ПВ КОДЦ1",
+		"GPOD": 80,
+		"VESVAG": 24,
+		"VES_GROTP": 83.7,
+		"VES_PROVES": 83.7
+	},
+	{
+		"NVAG": 8502,
+		"KODTVAG": "ПВ КОДЦ1",
+		"GPOD": 70,
+		"VESVAG": 23.7,
+		"VES_GROTP": 77.2,
+		"VES_PROVES": 77.2
+	},
+	{
+		"NVAG": 8982,
+		"KODTVAG": "ПЛЧ ЛОТ К2",
+		"GPOD": 70,
+		"VESVAG": 24,
+		"VES_GROTP": 78.35,
+		"VES_PROVES": 78.35
+	},
+	{
+		"NVAG": 8990,
+		"KODTVAG": "ПЛЧ ЛОТ К2",
+		"GPOD": 70,
+		"VESVAG": 24,
+		"VES_GROTP": 81.7,
+		"VES_PROVES": 81.7
+	},
+	{
+		"NVAG": 8691,
+		"KODTVAG": "ОК АГЛ",
+		"GPOD": 71,
+		"VESVAG": 23,
+		"VES_GROTP": 67.85,
+		"VES_PROVES": 67.85
+	},
+	{
+		"NVAG": 8652,
+		"KODTVAG": "ОК АГЛ",
+		"GPOD": 71,
+		"VESVAG": 20.75,
+		"VES_GROTP": 63.95,
+		"VES_PROVES": 63.95
+	},
+	{
+		"NVAG": 8916,
+		"KODTVAG": "ОК АГЛ",
+		"GPOD": 71,
+		"VESVAG": 21.7,
+		"VES_GROTP": 63.4,
+		"VES_PROVES": 63.4
+	},
+	{
+		"NVAG": 8760,
+		"KODTVAG": "ОК АГЛ",
+		"GPOD": 70,
+		"VESVAG": 23.45,
+		"VES_GROTP": 67.85,
+		"VES_PROVES": 67.85
+	}
+]

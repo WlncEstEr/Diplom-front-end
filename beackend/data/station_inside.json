@@ -1,0 +1,170 @@
+[
+	{
+		"N": "1",
+		"STATION_INSIDE_CODE": "25",
+		"STATION_INSIDE_NAME": "СЕВЕРНАЯ",
+		"KOD_AR": "5",
+		"IP_GATEWAY": "",
+		"IDE": "0"
+	},
+	{
+		"N": "2",
+		"STATION_INSIDE_CODE": "54",
+		"STATION_INSIDE_NAME": "СИЛИКАТНАЯ",
+		"KOD_AR": "",
+		"IP_GATEWAY": "",
+		"IDE": "0"
+	},
+	{
+		"N": "3",
+		"STATION_INSIDE_CODE": "26",
+		"STATION_INSIDE_NAME": "ЛОКОМОТИВНОЕ ДЕПО",
+		"KOD_AR": "3",
+		"IP_GATEWAY": "",
+		"IDE": "0"
+	},
+	{
+		"N": "4",
+		"STATION_INSIDE_CODE": "27",
+		"STATION_INSIDE_NAME": "МЕХАНИЗАЦИИ",
+		"KOD_AR": "3",
+		"IP_GATEWAY": "",
+		"IDE": "0"
+	},
+	{
+		"N": "5",
+		"STATION_INSIDE_CODE": "53",
+		"STATION_INSIDE_NAME": "ЧУГУН 1",
+		"KOD_AR": "",
+		"IP_GATEWAY": "",
+		"IDE": "0"
+	},
+	{
+		"N": "6",
+		"STATION_INSIDE_CODE": "1",
+		"STATION_INSIDE_NAME": "НОВОЛИПЕЦК",
+		"KOD_AR": "1",
+		"IP_GATEWAY": "192.168.170.1",
+		"IDE": "0"
+	},
+	{
+		"N": "7",
+		"STATION_INSIDE_CODE": "2",
+		"STATION_INSIDE_NAME": "ЧУГУН 2",
+		"KOD_AR": "2",
+		"IP_GATEWAY": "192.168.14.81",
+		"IDE": "0"
+	},
+	{
+		"N": "8",
+		"STATION_INSIDE_CODE": "3",
+		"STATION_INSIDE_NAME": "СЫРЬЕВАЯ",
+		"KOD_AR": "3",
+		"IP_GATEWAY": "192.168.59.254",
+		"IDE": "0"
+	},
+	{
+		"N": "9",
+		"STATION_INSIDE_CODE": "4",
+		"STATION_INSIDE_NAME": "АГЛОМЕРАТНАЯ",
+		"KOD_AR": "3",
+		"IP_GATEWAY": "192.168.59.6",
+		"IDE": "0"
+	},
+	{
+		"N": "10",
+		"STATION_INSIDE_CODE": "5",
+		"STATION_INSIDE_NAME": "БУНКЕРНАЯ",
+		"KOD_AR": "3",
+		"IP_GATEWAY": "192.168.59.254",
+		"IDE": "0"
+	},
+	{
+		"N": "11",
+		"STATION_INSIDE_CODE": "6",
+		"STATION_INSIDE_NAME": "ШЛАКОВАЯ",
+		"KOD_AR": "4",
+		"IP_GATEWAY": "192.168.10.153",
+		"IDE": "0"
+	},
+	{
+		"N": "12",
+		"STATION_INSIDE_CODE": "7",
+		"STATION_INSIDE_NAME": "ДОМЕННАЯ",
+		"KOD_AR": "4",
+		"IP_GATEWAY": "192.168.10.129",
+		"IDE": "0"
+	},
+	{
+		"N": "13",
+		"STATION_INSIDE_CODE": "8",
+		"STATION_INSIDE_NAME": "УГОЛЬНАЯ",
+		"KOD_AR": "4",
+		"IP_GATEWAY": "192.168.30.81",
+		"IDE": "0"
+	},
+	{
+		"N": "14",
+		"STATION_INSIDE_CODE": "9",
+		"STATION_INSIDE_NAME": "ВОСТОЧНАЯ",
+		"KOD_AR": "5",
+		"IP_GATEWAY": "192.168.30.1",
+		"IDE": "0"
+	},
+	{
+		"N": "15",
+		"STATION_INSIDE_CODE": "10",
+		"STATION_INSIDE_NAME": "ЮЖНАЯ",
+		"KOD_AR": "5",
+		"IP_GATEWAY": "192.168.59.238",
+		"IDE": "0"
+	},
+	{
+		"N": "16",
+		"STATION_INSIDE_CODE": "33",
+		"STATION_INSIDE_NAME": "ВЕСЫ 10 (СЫРЬЕВАЯ)",
+		"KOD_AR": "3",
+		"IP_GATEWAY": "192.168.59.166",
+		"IDE": "0"
+	},
+	{
+		"N": "17",
+		"STATION_INSIDE_CODE": "12",
+		"STATION_INSIDE_NAME": "ЧУГУННАЯ",
+		"KOD_AR": "5",
+		"IP_GATEWAY": "192.168.30.137",
+		"IDE": "0"
+	},
+	{
+		"N": "18",
+		"STATION_INSIDE_CODE": "13",
+		"STATION_INSIDE_NAME": "ПАРК СТАЛЬНОЙ",
+		"KOD_AR": "6",
+		"IP_GATEWAY": "",
+		"IDE": "0"
+	},
+	{
+		"N": "19",
+		"STATION_INSIDE_CODE": "14",
+		"STATION_INSIDE_NAME": "ВХОДНАЯ",
+		"KOD_AR": "4",
+		"IP_GATEWAY": "192.168.59.22",
+		"IDE": "0"
+	},
+	{
+		"N": "20",
+		"STATION_INSIDE_CODE": "15",
+		"STATION_INSIDE_NAME": "СКРАПНАЯ 1",
+		"KOD_AR": "6",
+		"IP_GATEWAY": "192.168.59.126",
+		"IDE": "0"
+	},
+	{
+		"N": "21",
+		"STATION_INSIDE_CODE": "16",
+		"STATION_INSIDE_NAME": "ШИХТОВАЯ",
+		"KOD_AR": "6",
+		"IP_GATEWAY": "192.168.59.190",
+		"IDE": "0"
+	}
+]
